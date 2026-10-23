@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/002-school/5.univercity/C++/programs/assignments/StudentList/StulistCMake/build",
+  "command": "D:\\001-tools\\environments\\MinGW\\x86_64-16.2.0-release-posix-seh-ucrt-rt_v14-rev1\\mingw64\\bin\\c++.exe  @CMakeFiles\\StudentManagement.dir\\includes_CXX.rsp -g -std=c++17 -Wall -Wextra -o CMakeFiles\\StudentManagement.dir\\src\\main.cpp.obj -c D:\\002-school\\5.univercity\\C++\\programs\\assignments\\StudentList\\StulistCMake\\src\\main.cpp",
+  "file": "D:/002-school/5.univercity/C++/programs/assignments/StudentList/StulistCMake/src/main.cpp",
+  "output": "CMakeFiles/StudentManagement.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/002-school/5.univercity/C++/programs/assignments/StudentList/StulistCMake/build",
+  "command": "D:\\001-tools\\environments\\MinGW\\x86_64-16.2.0-release-posix-seh-ucrt-rt_v14-rev1\\mingw64\\bin\\c++.exe  @CMakeFiles\\StudentManagement.dir\\includes_CXX.rsp -g -std=c++17 -Wall -Wextra -o CMakeFiles\\StudentManagement.dir\\src\\Mystring.cpp.obj -c D:\\002-school\\5.univercity\\C++\\programs\\assignments\\StudentList\\StulistCMake\\src\\Mystring.cpp",
+  "file": "D:/002-school/5.univercity/C++/programs/assignments/StudentList/StulistCMake/src/Mystring.cpp",
+  "output": "CMakeFiles/StudentManagement.dir/src/Mystring.cpp.obj"
+},
+{
+  "directory": "D:/002-school/5.univercity/C++/programs/assignments/StudentList/StulistCMake/build",
+  "command": "D:\\001-tools\\environments\\MinGW\\x86_64-16.2.0-release-posix-seh-ucrt-rt_v14-rev1\\mingw64\\bin\\c++.exe  @CMakeFiles\\StudentManagement.dir\\includes_CXX.rsp -g -std=c++17 -Wall -Wextra -o CMakeFiles\\StudentManagement.dir\\src\\StudentList.cpp.obj -c D:\\002-school\\5.univercity\\C++\\programs\\assignments\\StudentList\\StulistCMake\\src\\StudentList.cpp",
+  "file": "D:/002-school/5.univercity/C++/programs/assignments/StudentList/StulistCMake/src/StudentList.cpp",
+  "output": "CMakeFiles/StudentManagement.dir/src/StudentList.cpp.obj"
+}
+]

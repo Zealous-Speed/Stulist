@@ -1,0 +1,91 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"D:/001-tools/environments/MinGW/x86_64-16.2.0-release-posix-seh-ucrt-rt_v14-rev1/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/c++",
+						"D:/001-tools/environments/MinGW/x86_64-16.2.0-release-posix-seh-ucrt-rt_v14-rev1/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/c++/x86_64-w64-mingw32",
+						"D:/001-tools/environments/MinGW/x86_64-16.2.0-release-posix-seh-ucrt-rt_v14-rev1/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/include/c++/backward",
+						"D:/001-tools/environments/MinGW/x86_64-16.2.0-release-posix-seh-ucrt-rt_v14-rev1/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/include",
+						"D:/001-tools/environments/MinGW/x86_64-16.2.0-release-posix-seh-ucrt-rt_v14-rev1/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0/include-fixed",
+						"D:/001-tools/environments/MinGW/x86_64-16.2.0-release-posix-seh-ucrt-rt_v14-rev1/mingw64/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"D:/001-tools/environments/MinGW/x86_64-16.2.0-release-posix-seh-ucrt-rt_v14-rev1/mingw64/lib/gcc/x86_64-w64-mingw32/16.2.0",
+						"D:/001-tools/environments/MinGW/x86_64-16.2.0-release-posix-seh-ucrt-rt_v14-rev1/mingw64/lib/gcc",
+						"D:/001-tools/environments/MinGW/x86_64-16.2.0-release-posix-seh-ucrt-rt_v14-rev1/mingw64/x86_64-w64-mingw32/lib",
+						"D:/001-tools/environments/MinGW/x86_64-16.2.0-release-posix-seh-ucrt-rt_v14-rev1/mingw64/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"stdc++",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"mingwex",
+						"kernel32",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"iconv",
+						"mingw32",
+						"gcc_s",
+						"gcc",
+						"mingwex",
+						"kernel32"
+					]
+				},
+				"path" : "D:/001-tools/environments/MinGW/x86_64-16.2.0-release-posix-seh-ucrt-rt_v14-rev1/mingw64/bin/c++.exe",
+				"version" : "16.2.0"
+			},
+			"language" : "CXX",
+			"sourceFileExtensions" : 
+			[
+				"C",
+				"M",
+				"c++",
+				"cc",
+				"cpp",
+				"cxx",
+				"m",
+				"mm",
+				"mpp",
+				"CPP",
+				"ixx",
+				"cppm",
+				"ccm",
+				"cxxm",
+				"c++m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "D:/001-tools/environments/MinGW/x86_64-16.2.0-release-posix-seh-ucrt-rt_v14-rev1/mingw64/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

@@ -1,0 +1,3 @@
+D:/002-school/5.univercity/C++/programs/assignments/StudentList/StulistCMake/build/CMakeFiles/StudentManagement.dir
+D:/002-school/5.univercity/C++/programs/assignments/StudentList/StulistCMake/build/CMakeFiles/edit_cache.dir
+D:/002-school/5.univercity/C++/programs/assignments/StudentList/StulistCMake/build/CMakeFiles/rebuild_cache.dir

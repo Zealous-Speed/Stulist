@@ -1,0 +1,3 @@
+D:\001-tools\project-assistance\cmake-4.5.0-rc1-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\StudentManagement.dir/objects.a
+D:\001-tools\environments\MinGW\x86_64-16.2.0-release-posix-seh-ucrt-rt_v14-rev1\mingw64\bin\ar.exe qc CMakeFiles\StudentManagement.dir/objects.a @CMakeFiles\StudentManagement.dir\objects1.rsp
+D:\001-tools\environments\MinGW\x86_64-16.2.0-release-posix-seh-ucrt-rt_v14-rev1\mingw64\bin\c++.exe -g -Wl,--whole-archive CMakeFiles\StudentManagement.dir/objects.a -Wl,--no-whole-archive -o StudentManagement.exe -Wl,--out-implib,libStudentManagement.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\StudentManagement.dir\linkLibs.rsp
