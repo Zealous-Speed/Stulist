@@ -4,7 +4,7 @@
 
 class Student {
     public:
-        Student(): _id(0), _score(0) {}
+        Student(): _id(0), _score(0), _name(nullptr), _prof(nullptr) {}
         Student(int id, const Mystring & name, const Mystring & prof, double score)
             : _id(id), _name(name), _prof(prof), _score(score) {}
         Student(const Student & s)
